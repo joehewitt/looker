@@ -1,0 +1,20 @@
+{
+  "name": "looker",
+  "description": "Inspector and designer for Looks.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/joehewitt/looker",
+  "keywords": [],
+  "author": "Joe Hewitt <joe@joehewitt.com>",
+  "contributors": [],
+  "dependencies": {
+    "looks": "",
+    "ore": "",
+    "underscore": ""
+  },
+  "main": "./lib/looker",
+  "directories": {},
+  "engines": { "node": ">=0.4.0" },
+  "app.js": {
+      "static": "./static"
+  }
+}
